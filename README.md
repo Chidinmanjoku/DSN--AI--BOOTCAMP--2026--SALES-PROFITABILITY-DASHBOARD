@@ -6,7 +6,7 @@ This project focuses on data cleaning, dashboard auditing, and sales and profita
 
 ## Corrected Sales & Profitability Dashboard
 
-![Corrected Sales & Profitability Dashboard](Corrected_Sales_Profitability_Dashboard.jpeg)
+![Corrected Sales and Profitability Dashboard](<Corrected_Sales & Profitability Dashboard.JPEG>)
 
 ## Key Findings
 
