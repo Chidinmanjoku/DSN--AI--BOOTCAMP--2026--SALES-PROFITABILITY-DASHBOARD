@@ -21,8 +21,8 @@ This project focuses on data cleaning, dashboard auditing, and sales and profita
 
 ## Supporting Files
 
-- Power BI dashboard file
-- Excel workbook containing the project dataset and analysis
+- [Power BI Dashboard (.pbix)](DSN_AI_Bootcamp_2026_Dashboard.pbix)
+- [Excel Workbook (.xlsx)](DSN_Bootcamp%20Analytics%20Dataset.xlsx)
 
 ## Tools Used
 
